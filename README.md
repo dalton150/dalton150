@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey there, I'm Shivam!</h1>
-  <img src="https://avatars.githubusercontent.com/u/66414218?v=2" alt="banner" width="10%" />
+  <img src="https://avatars.githubusercontent.com/u/66414218?v=2" alt="banner" width="30%" />
 
   ---
   
