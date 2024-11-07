@@ -20,9 +20,9 @@
 
 - **🌱 Currently Learning:** [List your current courses, technologies, or goals]
 - **💼 Looking to Collaborate On:** Projects related to [Your areas of interest, such as Web Development, Machine Learning, etc.]
-- **👀 Areas of Interest:** [E.g., Open Source, Web3, Blockchain, Full-stack Development]
-- **😄 Pronouns:** [Your pronouns, e.g., He/Him, They/Them]
-- **⚡ Fun Fact:** [Share something unique about yourself!]
+- **👀 Areas of Interest:** Web Backend, Web3 , Blockchain, Smart Contract
+- **😄 Pronouns:** He/Him
+- **⚡ Fun Fact:** 
 
 ---
 
@@ -30,7 +30,7 @@
 
 | **Languages** | **Frameworks & Libraries** | **Tools** |
 |---------------|----------------------------|-----------|
-| [Add your languages, e.g., Python, JavaScript, etc.] | [Add your frameworks, e.g., React, Node.js] | [Add your tools, e.g., Git, Docker, VSCode] |
+| JavaScript,C++,Solidity,Python| Node.js,mongoose,express.js ,react.js | git , VSCode, postman, pyCharm,Jupyter Notebook.|
 
 ---
 
