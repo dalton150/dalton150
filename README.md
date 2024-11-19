@@ -18,8 +18,8 @@
 
 ### 🌱 About Me
 
-- **🌱 Currently Learning:** [List your current courses, technologies, or goals]
-- **💼 Looking to Collaborate On:** Projects related to [Your areas of interest, such as Web Development, Machine Learning, etc.]
+- **🌱 Currently Learning:**
+- **💼 Looking to Collaborate On:** Projects related to blockchain, web3, Backend Development, API Development, DeFI, DEX etc.]
 - **👀 Areas of Interest:** Web Backend, Web3 , Blockchain, Smart Contract
 - **😄 Pronouns:** He/Him
 - **⚡ Fun Fact:** 
@@ -46,8 +46,8 @@
 ### 📫 Connect with Me!
 
 <p align="center">
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/ShivamS96168034" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/shivamsingh150" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
