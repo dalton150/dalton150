@@ -30,7 +30,7 @@
 
 | **Languages** | **Frameworks & Libraries** | **Tools** |
 |---------------|----------------------------|-----------|
-| JavaScript,C++,Solidity,Python| Node.js,mongoose,express.js ,react.js | git , VSCode, postman, pyCharm,Jupyter Notebook.|
+| JavaScript,C++,Solidity,Python| Node.js,mongoose,express.js ,react.js | git, VSCode, postman, pyCharm, Jupyter Notebook,Linux, Hardhat|
 
 ---
 
