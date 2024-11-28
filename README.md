@@ -18,7 +18,7 @@
 
 ### 🌱 About Me
 
-- **🌱 Currently Learning:**
+- **🌱 Currently Learning:** RUST Programming , Smart Contract with rust, web backend with rust
 - **💼 Looking to Collaborate On:** Projects related to blockchain, web3, Backend Development, API Development, DeFI, DEX etc.]
 - **👀 Areas of Interest:** Web Backend, Web3 , Blockchain, Smart Contract
 - **😄 Pronouns:** He/Him
