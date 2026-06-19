@@ -2,29 +2,37 @@
 
 <img src="./github-banner.png" width="100%" />
 
-<br>
+<h1 align="center">
+Hi, I'm Shivam Singh 👋
+</h1>
 
-# 👋 Hi, I'm Shivam Singh
+<h3 align="center">
+Backend & Blockchain Engineer • DevOps • AI Systems
+</h3>
 
-### Backend & Blockchain Engineer | DevOps | AI Systems
+<p align="center">
+Building scalable Web2, Web3 and AI-powered applications.
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Blockchain+Engineer;DevOps+Practitioner;AI+Systems+Developer;Building+Scalable+Web2+%26+Web3+Applications" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Backend+Engineer;Blockchain+Engineer;DevOps+Practitioner;AI+Systems+Developer;Building+Scalable+Systems" />
+</p>
 
-<br>
+<p align="center">
 
 <a href="https://linkedin.com/in/shivamsingh150">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/dalton150">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shivamsingh3754966@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="https://github.com/dalton150">
+<img src="https://img.shields.io/github/followers/dalton150?style=for-the-badge"/>
+</a>
+
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=dalton150&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -32,65 +40,36 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-Backend & Blockchain Engineer with 3+ years of experience building scalable Web2, Web3, and AI-powered systems.
+Backend & Blockchain Engineer with 3+ years of experience building production-grade backend systems, blockchain infrastructure, trading platforms, wallet systems, smart contract integrations, and AI-powered applications.
 
-I specialize in designing backend architectures, blockchain infrastructure, smart contract integrations, real-time systems, and production-grade deployments.
-
-My focus is on building systems that are secure, scalable, and reliable under real-world workloads.
+I enjoy solving complex engineering problems and building systems that are secure, scalable, and reliable under real-world workloads.
 
 ---
 
-# 🏗 What I Build
+## 📈 Engineering Highlights
 
-🔹 Blockchain Infrastructure
-
-🔹 Smart Contract Systems
-
-🔹 Trading Platforms
-
-🔹 Wallet & Deposit Infrastructure
-
-🔹 Backend APIs & Distributed Systems
-
-🔹 DevOps & CI/CD Pipelines
-
-🔹 AI-Powered Applications
-
-🔹 Agentic AI & RAG Systems
+* 🚀 Built Multi-Chain DEX supporting 100+ trading pairs
+* 🔗 Developed 70+ Smart Contracts across multiple blockchain networks
+* 💰 Created HD Wallet Infrastructure with automated deposit tracking
+* ⚡ Built Real-Time Trading Platforms using WebSockets
+* 🌐 Developed 50+ Reward Distribution Systems
+* 🏗 Designed Production-Grade APIs and Blockchain Integrations
+* ☁️ Managed Cloud Infrastructure and CI/CD Deployments
+* 🤖 Built AI-powered applications using RAG and Vector Databases
 
 ---
 
-# 📈 Engineering Highlights
-
-✅ Built Multi-Chain DEX supporting 100+ trading pairs
-
-✅ Developed 70+ Smart Contracts across multiple blockchain networks
-
-✅ Created HD Wallet Infrastructure with automated deposit tracking
-
-✅ Built Real-Time Trading Platforms using WebSockets
-
-✅ Developed 50+ Complex Reward Distribution Systems
-
-✅ Designed Production-Grade Backend APIs and Blockchain Integrations
-
-✅ Managed Cloud Infrastructure, CI/CD Pipelines, and Production Deployments
-
----
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,typescript" />
 </p>
 
-REST APIs • WebSockets • API Architecture • Distributed Systems • Real-Time Applications
-
----
+REST APIs • WebSockets • Distributed Systems • API Architecture • Real-Time Applications
 
 ### Blockchain
 
@@ -100,8 +79,6 @@ REST APIs • WebSockets • API Architecture • Distributed Systems • Real-T
 
 Solidity • Ethers.js • Web3.js • Hardhat • Foundry • Smart Contracts • Wallet Integration • Token Development • DeFi • DEX
 
----
-
 ### Databases
 
 <p>
@@ -109,8 +86,6 @@ Solidity • Ethers.js • Web3.js • Hardhat • Foundry • Smart Contracts �
 </p>
 
 MongoDB • PostgreSQL
-
----
 
 ### DevOps
 
@@ -120,130 +95,74 @@ MongoDB • PostgreSQL
 
 Docker • AWS • Linux • Nginx • CI/CD • Production Deployments
 
----
-
 ### AI Systems
 
 RAG • Vector Databases • AI Agent Integration • OpenAI APIs • Prompt Engineering • Workflow Automation
 
 ---
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
-## 🔗 Multi-Chain DEX
+### 🔗 Multi-Chain DEX
 
 Built a decentralized exchange supporting cross-chain swaps and 100+ trading pairs across multiple blockchain networks.
 
-**Key Features**
-
-* Cross-chain token swaps
-* Liquidity Pool (LP) Management
-* Real-time transaction tracking
-* WebSocket-based updates
-* Smart contract integrations
+**Tech:** Solidity • Node.js • Ethers.js • WebSockets
 
 ---
 
-## 📈 Binary Trading Platform
+### 📈 Binary Trading Platform
 
-Built a blockchain-powered trading platform with automated deposits, reward systems, and real-time trade execution.
+Developed a blockchain-powered trading platform with HD Wallet infrastructure, automated deposits, reward systems, and real-time trade execution.
 
-**Key Features**
-
-* HD Wallet Infrastructure
-* Automated Deposit Tracking
-* Referral & Reward Systems
-* Real-Time Trade Processing
-* Multi-chain Support
+**Tech:** Node.js • MongoDB • Blockchain APIs • WebSockets
 
 ---
 
-## 🪙 Token & Presale Ecosystem
+### 🪙 Token & Presale Ecosystem
 
-Developed blockchain infrastructure supporting token creation, staking, vesting, presales, and mining systems.
+Developed token deployment, staking, vesting, mining, and presale infrastructure across multiple EVM-compatible chains.
 
-**Key Features**
-
-* ERC20 Token Development
-* Staking Platforms
-* Vesting Contracts
-* Presale Systems
-* Mining Infrastructure
+**Tech:** Solidity • Ethers.js • Node.js
 
 ---
 
-## 🤖 AI Chat Backend
+### 🤖 AI Chat Backend
 
-Built a Retrieval-Augmented Generation (RAG) backend using vector databases and LLM integrations.
+Built a RAG-powered AI backend using embeddings, vector databases, chunking strategies, and LLM integrations.
 
-**Key Features**
-
-* Chunking Pipelines
-* Embedding Generation
-* Vector Search
-* Context Retrieval
-* AI Agent Integration
+**Tech:** Node.js • OpenAI • Vector DB • RAG
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dalton150&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dalton150&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dalton150&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dalton150&theme=tokyo-night" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dalton150&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
 ---
 
-# 🌱 Currently Exploring
-
-* Agentic AI Architectures
-* Multi-Agent Systems
-* Advanced RAG Pipelines
-* Vector Databases
-* Rust for Blockchain Development
-* Blockchain Infrastructure Design
-
----
-
-# 📚 Current Areas of Interest
-
-* Backend Engineering
-* Blockchain Infrastructure
-* Smart Contract Security
-* Distributed Systems
-* DevOps Automation
-* AI Systems & Agent Workflows
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📍 Gurugram, India
 
-📧 Email: [shivamsingh3754966@gmail.com](mailto:shivamsingh3754966@gmail.com)
+📧 **Email:** [shivamsingh3754966@gmail.com](mailto:shivamsingh3754966@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/shivamsingh150
+💼 **LinkedIn:** https://linkedin.com/in/shivamsingh150
 
-💻 GitHub: https://github.com/dalton150
+💻 **GitHub:** https://github.com/dalton150
 
 ---
 
 <div align="center">
 
-## ⚡ Building Scalable Backend, Blockchain & AI Systems
+### ⚡ Building Scalable Backend, Blockchain & AI Systems
 
-*"Great systems are built through simplicity, reliability, and continuous improvement."*
+<i>"Great systems are built through simplicity, reliability, and continuous improvement."</i>
 
 </div>
