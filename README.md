@@ -2,25 +2,31 @@
 
 <img src="./github-banner.png" width="100%" />
 
+<br>
+
 # 👋 Hi, I'm Shivam Singh
 
-### Backend & Blockchain Engineer | DevOps | AI Integration
+### Backend & Blockchain Engineer | DevOps | AI Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Blockchain+Engineer;DevOps+Practitioner;AI+Integration+Developer;Building+Scalable+Web2+%26+Web3+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Blockchain+Engineer;DevOps+Practitioner;AI+Systems+Developer;Building+Scalable+Web2+%26+Web3+Applications" />
 
 <br>
 
 <a href="https://linkedin.com/in/shivamsingh150">
-<img src="https://img.shields.io/badge/LinkedIn-Shivam%20Singh-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://github.com/dalton150">
-<img src="https://img.shields.io/badge/GitHub-dalton150-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
 <a href="mailto:shivamsingh3754966@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=dalton150&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -30,21 +36,33 @@
 
 Backend & Blockchain Engineer with 3+ years of experience building scalable Web2, Web3, and AI-powered systems.
 
-I specialize in:
+I specialize in designing backend architectures, blockchain infrastructure, smart contract integrations, real-time systems, and production-grade deployments.
 
-* Blockchain Infrastructure
-* Smart Contract Systems
-* Backend Architecture
-* Real-Time Applications
-* DevOps & Deployment Automation
-* AI Agent Integrations
-* RAG-based Applications
-
-I enjoy solving complex engineering problems and building production-grade systems that scale.
+My focus is on building systems that are secure, scalable, and reliable under real-world workloads.
 
 ---
 
-# 🏗 Engineering Highlights
+# 🏗 What I Build
+
+🔹 Blockchain Infrastructure
+
+🔹 Smart Contract Systems
+
+🔹 Trading Platforms
+
+🔹 Wallet & Deposit Infrastructure
+
+🔹 Backend APIs & Distributed Systems
+
+🔹 DevOps & CI/CD Pipelines
+
+🔹 AI-Powered Applications
+
+🔹 Agentic AI & RAG Systems
+
+---
+
+# 📈 Engineering Highlights
 
 ✅ Built Multi-Chain DEX supporting 100+ trading pairs
 
@@ -70,10 +88,9 @@ I enjoy solving complex engineering problems and building production-grade syste
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-* REST APIs
-* WebSockets
-* Distributed Systems
-* API Architecture
+REST APIs • WebSockets • API Architecture • Distributed Systems • Real-Time Applications
+
+---
 
 ### Blockchain
 
@@ -81,15 +98,9 @@ I enjoy solving complex engineering problems and building production-grade syste
 <img src="https://skillicons.dev/icons?i=solidity" />
 </p>
 
-* Solidity
-* Ethers.js
-* Web3.js
-* Hardhat
-* Foundry
-* Smart Contracts
-* DeFi
-* DEX Development
-* Wallet Integration
+Solidity • Ethers.js • Web3.js • Hardhat • Foundry • Smart Contracts • Wallet Integration • Token Development • DeFi • DEX
+
+---
 
 ### Databases
 
@@ -97,24 +108,23 @@ I enjoy solving complex engineering problems and building production-grade syste
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
+MongoDB • PostgreSQL
+
+---
+
 ### DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github" />
 </p>
 
-* CI/CD
-* Server Management
-* Production Deployments
+Docker • AWS • Linux • Nginx • CI/CD • Production Deployments
 
-### AI & Agentic Systems
+---
 
-* RAG (Retrieval-Augmented Generation)
-* Vector Databases
-* AI Agent Integration
-* OpenAI API Integration
-* Prompt Engineering
-* Workflow Automation
+### AI Systems
+
+RAG • Vector Databases • AI Agent Integration • OpenAI APIs • Prompt Engineering • Workflow Automation
 
 ---
 
@@ -122,51 +132,57 @@ I enjoy solving complex engineering problems and building production-grade syste
 
 ## 🔗 Multi-Chain DEX
 
-Built a decentralized exchange supporting 100+ trading pairs across multiple blockchain networks with:
+Built a decentralized exchange supporting cross-chain swaps and 100+ trading pairs across multiple blockchain networks.
 
-* Cross-chain swaps
-* LP management
-* Smart contract integrations
+**Key Features**
+
+* Cross-chain token swaps
+* Liquidity Pool (LP) Management
 * Real-time transaction tracking
-* WebSocket infrastructure
+* WebSocket-based updates
+* Smart contract integrations
 
 ---
 
 ## 📈 Binary Trading Platform
 
-Built a blockchain-powered trading platform featuring:
+Built a blockchain-powered trading platform with automated deposits, reward systems, and real-time trade execution.
+
+**Key Features**
 
 * HD Wallet Infrastructure
 * Automated Deposit Tracking
-* Real-Time Trade Execution
 * Referral & Reward Systems
-* High-Frequency Backend Processing
+* Real-Time Trade Processing
+* Multi-chain Support
 
 ---
 
 ## 🪙 Token & Presale Ecosystem
 
-Developed:
+Developed blockchain infrastructure supporting token creation, staking, vesting, presales, and mining systems.
 
-* ERC20 Tokens
-* Staking Systems
+**Key Features**
+
+* ERC20 Token Development
+* Staking Platforms
 * Vesting Contracts
-* Mining Systems
-* Presale Platforms
-
-Across multiple EVM-compatible chains.
+* Presale Systems
+* Mining Infrastructure
 
 ---
 
 ## 🤖 AI Chat Backend
 
-Built a Retrieval-Augmented Generation (RAG) backend with:
+Built a Retrieval-Augmented Generation (RAG) backend using vector databases and LLM integrations.
+
+**Key Features**
 
 * Chunking Pipelines
-* Embeddings
-* Vector Databases
-* AI Agent Integrations
-* LLM APIs
+* Embedding Generation
+* Vector Search
+* Context Retrieval
+* AI Agent Integration
 
 ---
 
@@ -180,9 +196,7 @@ Built a Retrieval-Augmented Generation (RAG) backend with:
 
 </div>
 
----
-
-# 📈 Contribution Graph
+<br>
 
 <div align="center">
 
@@ -203,18 +217,33 @@ Built a Retrieval-Augmented Generation (RAG) backend with:
 
 ---
 
+# 📚 Current Areas of Interest
+
+* Backend Engineering
+* Blockchain Infrastructure
+* Smart Contract Security
+* Distributed Systems
+* DevOps Automation
+* AI Systems & Agent Workflows
+
+---
+
 # 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/shivamsingh150
-* GitHub: https://github.com/dalton150
-* Email: [shivamsingh3754966@gmail.com](mailto:shivamsingh3754966@gmail.com)
+📍 Gurugram, India
+
+📧 Email: [shivamsingh3754966@gmail.com](mailto:shivamsingh3754966@gmail.com)
+
+💼 LinkedIn: https://linkedin.com/in/shivamsingh150
+
+💻 GitHub: https://github.com/dalton150
 
 ---
 
 <div align="center">
 
-### ⚡ Building Scalable Backend, Blockchain & AI Systems
+## ⚡ Building Scalable Backend, Blockchain & AI Systems
 
-<img src="https://komarev.com/ghpvc/?username=dalton150&label=Profile%20Views&color=0e75b6&style=flat" />
+*"Great systems are built through simplicity, reliability, and continuous improvement."*
 
 </div>
