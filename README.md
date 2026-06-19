@@ -8,7 +8,7 @@
 
 **Backend & Blockchain Engineer &nbsp;|&nbsp; DevOps &nbsp;|&nbsp; AI Systems**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Blockchain+%26+Smart+Contract+Engineering;DevOps+%26+Cloud+Infrastructure;AI+Systems+%26+RAG+Pipelines" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Blockchain+%26+Smart+Contract+Engineering;DevOps+%26+Cloud+Infrastructure;AI+Systems+%26+RAG+Pipelines" alt="Roles" />
 
 <br>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dalton150&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Profile Views](https://visitcount.itsvg.in/api?id=dalton150&label=Profile%20Views&color=1&icon=0&pretty=false)
 &nbsp;&nbsp;
 ![Location](https://img.shields.io/badge/📍_Gurugram,_India-1e1e2e?style=flat-square)
 
