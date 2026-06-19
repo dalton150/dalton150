@@ -8,7 +8,7 @@
 
 **Backend & Blockchain Engineer &nbsp;|&nbsp; DevOps &nbsp;|&nbsp; AI Systems**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Blockchain+%26+Smart+Contract+Engineering;DevOps+%26+Cloud+Infrastructure;AI+Systems+%26+RAG+Pipelines" alt="Roles" />
+*3+ years building production-grade backend, blockchain, DevOps, and AI systems for scalable Web2 & Web3 applications.*
 
 <br>
 
@@ -28,31 +28,23 @@
 
 ---
 
-## About
-
-Backend & Blockchain Engineer with **3+ years** of experience building production-grade systems across Web2, Web3, and AI.
-
-I specialize in backend architecture, blockchain infrastructure, smart contract engineering, real-time distributed systems, and cloud DevOps — with a consistent focus on systems that are **secure, scalable, and reliable** under real-world production workloads.
-
----
-
-## Engineering Highlights
+## Proof of Work
 
 <div align="center">
 
-| Metric | Achievement |
+| | |
 |:---:|:---|
-| **100+** | Trading pairs on a production Multi-Chain DEX |
-| **70+** | Smart contracts deployed across multiple EVM-compatible networks |
+| **3+ Years** | Production engineering across Web2, Web3, and AI systems |
+| **100+** | Trading pairs on a live Multi-Chain DEX |
+| **70+** | Smart contracts deployed across EVM-compatible networks |
 | **50+** | Complex reward and referral distribution systems |
-| **HD Wallets** | Automated blockchain deposit tracking infrastructure |
-| **Production** | Cloud infrastructure, CI/CD pipelines, and end-to-end deployments |
+| **Full-Stack** | Cloud infrastructure, CI/CD pipelines, and end-to-end production deployments |
 
 </div>
 
 ---
 
-## What I Build
+## Engineering Pillars
 
 <table>
 <tr>
@@ -73,7 +65,7 @@ Real-Time Applications
 Solidity · Ethers.js · Web3.js
 Hardhat · Foundry · DeFi
 Smart Contracts · DEX
-Wallet Integration · Tokens
+Wallets · Token Systems
 
 </td>
 <td align="center" width="25%">
@@ -98,6 +90,60 @@ Multi-Agent Orchestration
 </td>
 </tr>
 </table>
+
+---
+
+## Featured Work
+
+### Multi-Chain DEX
+
+| | |
+|:--|:--|
+| **Problem** | Build a production decentralized exchange with cross-chain liquidity across multiple blockchain networks |
+| **Built** | Multi-chain DEX with 100+ trading pairs, LP management, and real-time execution |
+| **Stack** | `Node.js` · `Solidity` · `Ethers.js` · `WebSockets` · `MongoDB` |
+| **Impact** | 100+ trading pairs live across EVM-compatible chains |
+
+Cross-chain token swaps with on-chain LP settlement, WebSocket price feeds, and smart contract-driven automated trade execution.
+
+---
+
+### Binary Trading Platform
+
+| | |
+|:--|:--|
+| **Problem** | Automate blockchain-based trading with secure wallet infrastructure and reward distribution |
+| **Built** | HD Wallet platform with multi-level reward contracts and real-time trade processing |
+| **Stack** | `Node.js` · `Solidity` · `Hardhat` · `PostgreSQL` · `Docker` · `AWS` |
+| **Impact** | Production multi-chain platform with fully automated deposit tracking |
+
+HD Wallet derivation with on-chain deposit detection, smart contract referral trees, and WebSocket-driven order management.
+
+---
+
+### Token & Presale Ecosystem
+
+| | |
+|:--|:--|
+| **Problem** | Build complete blockchain infrastructure for a token from creation through distribution |
+| **Built** | Full token lifecycle with staking, vesting, presale, and mining contracts |
+| **Stack** | `Solidity` · `Hardhat` · `Ethers.js` · `Node.js` · `MongoDB` |
+| **Impact** | 50+ reward distribution systems across multiple tokenomics models |
+
+ERC20 token development, on-chain vesting schedules, presale infrastructure, and mining contract primitives.
+
+---
+
+### AI Chat Backend (RAG System)
+
+| | |
+|:--|:--|
+| **Problem** | Build a context-aware AI backend that retrieves accurate answers from large document sets |
+| **Built** | RAG backend with vector search, embedding pipelines, and LLM agent integration |
+| **Stack** | `Python` · `Node.js` · `OpenAI API` · `LangChain` · `Vector DB` |
+| **Impact** | Production AI agent with semantic retrieval and multi-step reasoning |
+
+Document chunking pipelines, embedding generation, vector similarity search, and context-grounded response generation.
 
 ---
 
@@ -141,59 +187,7 @@ Multi-Agent Orchestration
 
 ---
 
-## Featured Projects
-
-### Multi-Chain DEX
-
-> Decentralized exchange supporting cross-chain swaps and real-time liquidity management across multiple blockchain networks.
-
-**Stack:** `Node.js` · `Solidity` · `Ethers.js` · `WebSockets` · `MongoDB`
-
-- Supports **100+ trading pairs** across EVM-compatible chains
-- Cross-chain token swaps with liquidity pool (LP) management and on-chain settlement
-- Real-time WebSocket price feeds and transaction tracking
-- Smart contract integrations for automated trade execution
-
----
-
-### Binary Trading Platform
-
-> Blockchain-powered trading platform with HD wallet infrastructure and automated reward distribution.
-
-**Stack:** `Node.js` · `Solidity` · `Hardhat` · `PostgreSQL` · `Docker` · `AWS`
-
-- HD Wallet infrastructure with automated blockchain deposit detection and tracking
-- Multi-level referral and reward distribution via smart contracts
-- Real-time trade processing with WebSocket-driven order management
-- Multi-chain support across EVM-compatible networks
-
----
-
-### Token & Presale Ecosystem
-
-> Complete blockchain infrastructure for the full token lifecycle — from creation to distribution.
-
-**Stack:** `Solidity` · `Hardhat` · `Ethers.js` · `Node.js` · `MongoDB`
-
-- ERC20 token development with staking, vesting, and presale smart contracts
-- **50+ reward distribution systems** supporting complex tokenomics
-- Presale infrastructure, mining systems, and on-chain governance primitives
-
----
-
-### AI Chat Backend (RAG System)
-
-> Retrieval-Augmented Generation backend powered by vector databases, embedding pipelines, and LLM APIs.
-
-**Stack:** `Python` · `Node.js` · `OpenAI API` · `LangChain` · `Vector DB`
-
-- Document ingestion, chunking pipelines, and semantic embedding generation
-- Vector search with context-aware retrieval and response grounding
-- AI agent integration with multi-step reasoning and tool-use capabilities
-
----
-
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
