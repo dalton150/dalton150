@@ -1,116 +1,209 @@
 <div align="center">
 
+<img src="./github-banner.png" width="100%" />
+
 # 👋 Hi, I'm Shivam Singh
 
 ### Backend & Blockchain Engineer | DevOps | AI Integration
 
-Building scalable Web2, Web3, and AI-powered systems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Blockchain+Engineer;DevOps+Practitioner;AI+Integration+Developer;Building+Scalable+Web2+%26+Web3+Systems" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Singh-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/shivamsingh150)
-[![GitHub](https://img.shields.io/badge/GitHub-dalton150-black?style=for-the-badge\&logo=github)](https://github.com/dalton150)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:shivamsingh3754966@gmail.com)
+<br>
+
+<a href="https://linkedin.com/in/shivamsingh150">
+<img src="https://img.shields.io/badge/LinkedIn-Shivam%20Singh-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/dalton150">
+<img src="https://img.shields.io/badge/GitHub-dalton150-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:shivamsingh3754966@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Backend & Blockchain Engineer with 3+ years of experience building production-grade backend systems, smart contract-powered applications, decentralized exchanges, trading platforms, wallet infrastructure, and blockchain integrations.
+Backend & Blockchain Engineer with 3+ years of experience building scalable Web2, Web3, and AI-powered systems.
 
-I enjoy designing scalable architectures, solving complex engineering problems, and building systems that operate reliably in production environments.
-
-### Current Focus
+I specialize in:
 
 * Blockchain Infrastructure
+* Smart Contract Systems
 * Backend Architecture
-* DevOps & CI/CD
-* Agentic AI & RAG Systems
-* Distributed Systems
+* Real-Time Applications
+* DevOps & Deployment Automation
+* AI Agent Integrations
+* RAG-based Applications
+
+I enjoy solving complex engineering problems and building production-grade systems that scale.
 
 ---
 
-## 💻 Tech Stack
+# 🏗 Engineering Highlights
+
+✅ Built Multi-Chain DEX supporting 100+ trading pairs
+
+✅ Developed 70+ Smart Contracts across multiple blockchain networks
+
+✅ Created HD Wallet Infrastructure with automated deposit tracking
+
+✅ Built Real-Time Trading Platforms using WebSockets
+
+✅ Developed 50+ Complex Reward Distribution Systems
+
+✅ Designed Production-Grade Backend APIs and Blockchain Integrations
+
+✅ Managed Cloud Infrastructure, CI/CD Pipelines, and Production Deployments
+
+---
+
+# 💻 Tech Stack
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=flat-square)
-![WebSockets](https://img.shields.io/badge/WebSockets-RealTime-orange?style=flat-square)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+* REST APIs
+* WebSockets
+* Distributed Systems
+* API Architecture
 
 ### Blockchain
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square\&logo=solidity)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat-square)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat-square)
+<p>
+<img src="https://skillicons.dev/icons?i=solidity" />
+</p>
+
+* Solidity
+* Ethers.js
+* Web3.js
+* Hardhat
+* Foundry
+* Smart Contracts
+* DeFi
+* DEX Development
+* Wallet Integration
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
 
 ### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-green?style=flat-square)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github" />
+</p>
 
-### AI & Automation
+* CI/CD
+* Server Management
+* Production Deployments
 
-![RAG](https://img.shields.io/badge/RAG-Applications-purple?style=flat-square)
-![Vector DB](https://img.shields.io/badge/VectorDB-AI-blueviolet?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-black?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic-AI-success?style=flat-square)
+### AI & Agentic Systems
 
----
-
-## 🔥 Featured Projects
-
-### 🔗 Multi-Chain DEX
-
-Built a decentralized exchange supporting 100+ trading pairs across multiple blockchain networks with real-time transaction tracking and cross-chain integrations.
-
-### 📈 Binary Trading Platform
-
-Developed a community-driven trading platform with HD wallet infrastructure, blockchain deposit monitoring, automated reward distribution, and real-time trade execution.
-
-### 🪙 Token & Presale Infrastructure
-
-Built token deployment, presale, staking, and reward distribution systems across multiple EVM-compatible chains.
-
-### 🤖 AI Chat Backend
-
-Developed a RAG-based AI backend using vector databases, embeddings, chunking strategies, and LLM integrations.
+* RAG (Retrieval-Augmented Generation)
+* Vector Databases
+* AI Agent Integration
+* OpenAI API Integration
+* Prompt Engineering
+* Workflow Automation
 
 ---
 
-## 📊 GitHub Statistics
+# 🔥 Featured Projects
+
+## 🔗 Multi-Chain DEX
+
+Built a decentralized exchange supporting 100+ trading pairs across multiple blockchain networks with:
+
+* Cross-chain swaps
+* LP management
+* Smart contract integrations
+* Real-time transaction tracking
+* WebSocket infrastructure
+
+---
+
+## 📈 Binary Trading Platform
+
+Built a blockchain-powered trading platform featuring:
+
+* HD Wallet Infrastructure
+* Automated Deposit Tracking
+* Real-Time Trade Execution
+* Referral & Reward Systems
+* High-Frequency Backend Processing
+
+---
+
+## 🪙 Token & Presale Ecosystem
+
+Developed:
+
+* ERC20 Tokens
+* Staking Systems
+* Vesting Contracts
+* Mining Systems
+* Presale Platforms
+
+Across multiple EVM-compatible chains.
+
+---
+
+## 🤖 AI Chat Backend
+
+Built a Retrieval-Augmented Generation (RAG) backend with:
+
+* Chunking Pipelines
+* Embeddings
+* Vector Databases
+* AI Agent Integrations
+* LLM APIs
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dalton150&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dalton150&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dalton150&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dalton150&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dalton150&theme=tokyo-night" width="100%" />
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
 
 * Agentic AI Architectures
 * Multi-Agent Systems
 * Advanced RAG Pipelines
+* Vector Databases
 * Rust for Blockchain Development
 * Blockchain Infrastructure Design
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/shivamsingh150
 * GitHub: https://github.com/dalton150
@@ -121,5 +214,7 @@ Developed a RAG-based AI backend using vector databases, embeddings, chunking st
 <div align="center">
 
 ### ⚡ Building Scalable Backend, Blockchain & AI Systems
+
+<img src="https://komarev.com/ghpvc/?username=dalton150&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
