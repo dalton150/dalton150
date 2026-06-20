@@ -210,8 +210,6 @@ Document chunking pipelines, embedding generation, vector similarity search, and
 
 - Agentic AI architectures and multi-agent orchestration frameworks
 - Advanced RAG pipelines with hybrid search, re-ranking, and memory layers
-- Rust for high-performance blockchain and systems programming
-- Smart contract security patterns and formal verification
 
 ---
 
