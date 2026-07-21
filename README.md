@@ -120,7 +120,7 @@ Cross-chain token swaps with on-chain LP settlement, WebSocket price feeds, and 
 |:--|:--|
 | **Problem** | Automate blockchain-based trading with secure wallet infrastructure and reward distribution |
 | **Built** | HD Wallet platform with multi-level reward contracts and real-time trade processing |
-| **Stack** | `Node.js` · `Solidity` · `Hardhat` · `PostgreSQL` · `Redis` · `Docker` · `AWS` |
+| **Stack** | `Node.js` · `Solidity` · `Hardhat` · `MongoDB` · `Redis` · `Docker` · `AWS` |
 | **Impact** | Production multi-chain platform with fully automated deposit tracking |
 
 HD Wallet derivation with on-chain deposit detection, smart contract referral trees, and WebSocket-driven order management.
@@ -212,10 +212,12 @@ Document chunking, embedding generation, vector similarity search, and grounded 
 
 ## GitHub Stats
 
+> **Note:** The stats, languages, streak, and activity graph below reflect **public repositories only**. Most of my production backend, blockchain, and DevOps work lives in private repositories and is not counted here.
+
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=dalton150&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dalton150&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=dalton150&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats (public repos only)" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dalton150&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages (public repos only)" />
 
 </div>
 
@@ -223,7 +225,7 @@ Document chunking, embedding generation, vector similarity search, and grounded 
 
 <div align="center">
 
-<img src="./profile/streak.svg" alt="GitHub Streak" />
+<img src="./profile/streak.svg" alt="GitHub Streak (public contributions)" />
 
 </div>
 
@@ -231,7 +233,7 @@ Document chunking, embedding generation, vector similarity search, and grounded 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dalton150&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dalton150&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph (public repos only)" />
 
 </div>
 
