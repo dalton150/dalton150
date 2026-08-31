@@ -214,7 +214,9 @@ Document chunking, embedding generation, vector similarity search, and grounded 
 
 ## GitHub Stats
 
-> **Note:** The stats, languages, streak, and contribution chart below reflect **public repositories only**. Most of my production backend, blockchain, and DevOps work lives in private repositories and is not counted here.
+> **Note:** The stats and top-language cards below reflect **public repositories only**.
+>
+> The **contribution chart** and **streak** are refreshed **hourly** via GitHub Actions and include **public + private activity** when the `GH_PAT` repository secret is configured. Enable **Include private contributions** in your [GitHub profile settings](https://github.com/settings/profile).
 
 <div align="center">
 
@@ -227,7 +229,7 @@ Document chunking, embedding generation, vector similarity search, and grounded 
 
 <div align="center">
 
-<img src="./profile/streak.svg" alt="GitHub Streak (public contributions)" />
+<img src="./profile/streak.svg" alt="GitHub Streak (public and private contributions)" />
 
 </div>
 
@@ -235,7 +237,7 @@ Document chunking, embedding generation, vector similarity search, and grounded 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dalton150/dalton150/output/contributions.svg" width="100%" alt="Contribution chart (public repos only)" />
+<img src="https://raw.githubusercontent.com/dalton150/dalton150/output/contributions.svg" width="100%" alt="Contribution chart (public and private activity, auto-updated hourly)" />
 
 </div>
 
