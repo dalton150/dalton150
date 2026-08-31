@@ -51,8 +51,8 @@
 ### Backend
 **Production**
 
-- Node.js · Express.js · JavaScript
-- MongoDB · PostgreSQL · Redis
+- Node.js · Express.js · JavaScript · TypeScript
+- MongoDB · PostgreSQL · Redis · RabbitMQ
 - REST APIs · WebSockets
 - Real-time & distributed systems
 
@@ -160,8 +160,10 @@ Document chunking, embedding generation, vector similarity search, and grounded 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 
 **Databases & Cache**
@@ -212,7 +214,7 @@ Document chunking, embedding generation, vector similarity search, and grounded 
 
 ## GitHub Stats
 
-> **Note:** The stats, languages, streak, and activity graph below reflect **public repositories only**. Most of my production backend, blockchain, and DevOps work lives in private repositories and is not counted here.
+> **Note:** The stats, languages, streak, and contribution chart below reflect **public repositories only**. Most of my production backend, blockchain, and DevOps work lives in private repositories and is not counted here.
 
 <div align="center">
 
@@ -233,7 +235,7 @@ Document chunking, embedding generation, vector similarity search, and grounded 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dalton150&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph (public repos only)" />
+<img src="https://raw.githubusercontent.com/dalton150/dalton150/output/contributions.svg" width="100%" alt="Contribution chart (public repos only)" />
 
 </div>
 
