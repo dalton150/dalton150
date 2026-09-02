@@ -14,11 +14,32 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: pipipi-dev/gcchart@v1
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate chart on output branch
+        uses: pipipi-dev/gcchart@v1
         with:
           github_user_name: dalton150
           github_token: ${{ secrets.GH_PAT || github.token }}
           outputs: |
-            contributions.svg?theme=dark&style=clean&period=90&granularity=day&cumulative=false
+            contributions.svg?theme=dark&style=clean&period=365&granularity=week&cumulative=true
           target_branch: output
           commit_message: "chore: update contribution chart"
+
+      - name: Sync chart into profile folder on main
+        run: |
+          git fetch origin output
+          mkdir -p profile
+          git show origin/output:contributions.svg > profile/contributions.svg
+
+      - name: Commit synced chart
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/contributions.svg
+          git diff --staged --quiet && echo "No chart changes" && exit 0
+          git commit -m "chore: sync contribution chart to profile"
+          git push
