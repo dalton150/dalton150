@@ -33,9 +33,9 @@
 | | |
 |:---:|:---|
 | **3+ Years** | Production engineering across Web2, Web3, and backend systems |
-| **100+** | Trading pairs on a live Multi-Chain DEX |
-| **70+** | Smart contracts deployed across EVM-compatible networks |
-| **50+** | Complex reward and referral distribution systems |
+| **100+** | Trading pairs on a live Multi-Chain DEX (Bridging Protocols) |
+| **100+** | Production Smart contracts deployed across EVM-compatible networks |
+| **50+** | Complex reward and referral distribution systems projects |
 | **Full-Stack** | Cloud infrastructure, CI/CD pipelines, and end-to-end production deployments |
 
 </div>
@@ -107,10 +107,10 @@
 |:--|:--|
 | **Problem** | Build a production decentralized exchange with cross-chain liquidity across multiple blockchain networks |
 | **Built** | Multi-chain DEX with 100+ trading pairs, LP management, and real-time execution |
-| **Stack** | `Node.js` · `Solidity` · `Ethers.js` · `WebSockets` · `MongoDB` · `Redis` |
+| **Stack** | `Node.js` · `Solidity` · `Ethers.js` · `WebSockets` · `MongoDB` · `Redis` . `RabbitMQ` | `Docker` · `AWS(EC2)` | `Hardhat` · `Foundry` |
 | **Impact** | 100+ trading pairs live across EVM-compatible chains |
 
-Cross-chain token swaps with on-chain LP settlement, WebSocket price feeds, and smart contract-driven automated trade execution.
+Cross-chain token swaps with on-chain LP settlement, WebSocket price feeds, and smart contract-driven automated trade execution With Limit-Order Support.
 
 ---
 
@@ -120,7 +120,7 @@ Cross-chain token swaps with on-chain LP settlement, WebSocket price feeds, and 
 |:--|:--|
 | **Problem** | Automate blockchain-based trading with secure wallet infrastructure and reward distribution |
 | **Built** | HD Wallet platform with multi-level reward contracts and real-time trade processing |
-| **Stack** | `Node.js` · `Solidity` · `Hardhat` · `MongoDB` · `Redis` · `Docker` · `AWS` |
+| **Stack** | `Node.js` · `Solidity` · `Hardhat` · `MongoDB` · `Redis` · `Docker` · `Linux` . `Virtual Machine (VM)` . `CI/CD(GitHub Actions)`|
 | **Impact** | Production multi-chain platform with fully automated deposit tracking |
 
 HD Wallet derivation with on-chain deposit detection, smart contract referral trees, and WebSocket-driven order management.
@@ -136,7 +136,7 @@ HD Wallet derivation with on-chain deposit detection, smart contract referral tr
 | **Stack** | `Solidity` · `Hardhat` · `Foundry` · `Ethers.js` · `Node.js` · `MongoDB` · `IPFS` |
 | **Impact** | 50+ reward distribution systems across multiple tokenomics models |
 
-ERC20 / vesting / staking / presale infrastructure with EIP-aware contract patterns across EVM-compatible networks.
+ERC20,ERC721,ECR1155 / vesting / staking / presale infrastructure with EIP-aware contract patterns across EVM-compatible networks.
 
 ---
 
