@@ -214,9 +214,7 @@ Document chunking, embedding generation, vector similarity search, and grounded 
 
 ## GitHub Stats
 
-> **Note:** The stats and top-language cards below reflect **public repositories only**.
->
-> The **contribution chart** and **streak** refresh **hourly** via GitHub Actions. For **public + private commits** on the chart, add a `GH_PAT` secret (see setup below) and enable **Include private contributions** in your [GitHub profile settings](https://github.com/settings/profile).
+> **Note:** Stats and top-language cards reflect **public repositories only**. The **streak** and **contribution chart** below include **public + private activity** (via `GH_PAT`) and refresh **hourly** — or immediately when you push changes to `README.md`.
 
 <div align="center">
 
