@@ -214,7 +214,7 @@ Document chunking, embedding generation, vector similarity search, and grounded 
 
 ## GitHub Stats
 
-> **Note:** Stats and top-language cards reflect **public repositories only**. The **streak** and **contribution chart** below include **public + private activity** (via `GH_PAT`) and refresh **hourly** — or immediately when you push changes to `README.md`.
+> **Note:** Stats and top-language cards reflect **public repositories only** (they will look lower than your real work). The **streak** and **contribution chart** below use `GH_PAT` and include **public + private activity**. They refresh **hourly**, and also when you push changes to `README.md` (do not edit `profile/*.svg` manually).
 
 <div align="center">
 

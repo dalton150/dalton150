@@ -11,7 +11,7 @@ on:
 
 concurrency:
   group: profile-widgets
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -24,9 +24,19 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GH_PAT || github.token }}
+
+      - name: Verify GH_PAT secret
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$GH_PAT" ]; then
+            echo "GH_PAT is not set. Add a classic PAT with repo + read:user scopes."
+            exit 1
+          fi
 
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+        uses: DenverCoder1/github-readme-streak-stats@v2.3.0
         with:
           options: user=dalton150&theme=tokyonight&hide_border=true&disable_animations=true
           path: profile/streak.svg
@@ -44,9 +54,19 @@ jobs:
 
       - name: Sync contribution chart to profile
         run: |
-          git fetch origin output
-          mkdir -p profile
-          git show origin/output:contributions.svg > profile/contributions.svg
+          for attempt in 1 2 3 4 5; do
+            git fetch origin output
+            if git show origin/output:contributions.svg > profile/contributions.svg; then
+              if [ -s profile/contributions.svg ]; then
+                echo "Synced contribution chart on attempt ${attempt}"
+                exit 0
+              fi
+            fi
+            echo "Waiting for output branch chart (attempt ${attempt})..."
+            sleep 5
+          done
+          echo "Failed to sync contribution chart from output branch"
+          exit 1
 
       - name: Commit profile widgets
         run: |
