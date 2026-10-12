@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=dalton150&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
+          options: username=dalton150&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true&role=OWNER
           path: profile/github-stats.svg
           token: ${{ secrets.GH_PAT }}
           fail_on_error: true
@@ -38,7 +38,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=dalton150&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html,css
+          options: username=dalton150&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&role=OWNER&hide=html,css
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PAT }}
           fail_on_error: true
