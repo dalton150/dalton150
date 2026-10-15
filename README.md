@@ -33,9 +33,10 @@
 | | |
 |:---:|:---|
 | **3+ Years** | Production engineering across Web2, Web3, and backend systems |
-| **100+** | Trading pairs on a live Multi-Chain DEX (Bridging Protocols) |
-| **100+** | Production Smart contracts deployed across EVM-compatible networks |
-| **50+** | Complex reward and referral distribution systems projects |
+| **100+** | Trading pairs on a live multi-chain DEX with bridging protocols |
+| **100+** | Production smart contracts deployed across EVM-compatible networks |
+| **50+** | Reward and referral distribution systems shipped to production |
+| **5+** | Complex binary-tree referral and reward distribution projects |
 | **Full-Stack** | Cloud infrastructure, CI/CD pipelines, and end-to-end production deployments |
 
 </div>
@@ -101,29 +102,63 @@
 
 ## Featured Systems
 
-### Multi-Chain DEX
+### AMR — Staking and Reward Platform
+
+**September 2026**
 
 | | |
 |:--|:--|
-| **Problem** | Build a production decentralized exchange with cross-chain liquidity across multiple blockchain networks |
-| **Built** | Multi-chain DEX with 100+ trading pairs, LP management, and real-time execution |
-| **Stack** | `Node.js` · `Solidity` · `Ethers.js` · `WebSockets` · `MongoDB` · `Redis` . `RabbitMQ` | `Docker` · `AWS(EC2)` | `Hardhat` · `Foundry` |
-| **Impact** | 100+ trading pairs live across EVM-compatible chains |
+| **Problem** | Run staking, deposits, and payouts without duplicate or inconsistent settlements |
+| **Built** | Hybrid Web2 ledger with on-chain settlement, wallet authentication, and blockchain event indexing |
+| **Stack** | `Node.js` · `Smart Contracts` · `Docker` · `Nginx` · `HTTPS` |
+| **Impact** | Production staking platform with idempotent deposit and payout processing |
 
-Cross-chain token swaps with on-chain LP settlement, WebSocket price feeds, and smart contract-driven automated trade execution With Limit-Order Support.
+Deterministic financial workflows use integer base units, fixed allocation rules, earning caps, and fail-closed pricing. Role-based authorization spans the backend and smart contracts, with admin and operator controls plus two-step ownership for privileged actions. Production runs behind Docker, an Nginx reverse proxy, HTTPS, isolated environments, and operator automation for deploy, verify, and admin workflows.
+
+---
+
+### ORNOXX — Jewellery E-commerce and Commission Backend
+
+**May 2026 – July 2026**
+
+| | |
+|:--|:--|
+| **Problem** | Run jewellery commerce, live gold pricing, payments, and multi-level commissions in one backend |
+| **Built** | Node.js and Express platform for catalog, cart, orders, coupons, reviews, admin, and member workflows |
+| **Stack** | `Node.js` · `Express.js` · `Redis` · `Razorpay` · `JWT` |
+| **Impact** | Production commerce backend with verified payments, dynamic pricing, and monthly commission settlement |
+
+Pricing is calculated from gold rates, product weight, making charges, and GST, with Redis caching. Razorpay payments are verified on the server. JWT covers multi-role authentication. Commission flows cover genealogy, business volume, level income, wallets, withdrawals, and monthly settlement. Franchise fulfillment is inventory-aware across stores and a central warehouse.
 
 ---
 
 ### Binary Trading Platform
 
+**January 2026 – March 2026**
+
 | | |
 |:--|:--|
-| **Problem** | Automate blockchain-based trading with secure wallet infrastructure and reward distribution |
-| **Built** | HD Wallet platform with multi-level reward contracts and real-time trade processing |
-| **Stack** | `Node.js` · `Solidity` · `Hardhat` · `MongoDB` · `Redis` · `Docker` · `Linux` . `Virtual Machine (VM)` . `CI/CD(GitHub Actions)`|
-| **Impact** | Production multi-chain platform with fully automated deposit tracking |
+| **Problem** | Process timed crypto trades, multi-chain deposits, and rewards without manual balance updates |
+| **Built** | Real-time trading backend for multiple crypto pairs, with trade windows from 30 seconds to 24 hours |
+| **Stack** | `Node.js` · `HD Wallets` · `Multi-chain` · `WebSockets` |
+| **Impact** | Automated deposits, trade resolution, and reward distribution across community trading flows |
 
-HD Wallet derivation with on-chain deposit detection, smart contract referral trees, and WebSocket-driven order management.
+HD-wallet infrastructure issues unique multi-chain deposit addresses and listens for blockchain transactions. Event-driven workers update balances, process deposits, and distribute rewards. The trade lifecycle covers order placement, time-based resolution, and result processing.
+
+---
+
+### RevoX.exchange
+
+**January 2025 – March 2025**
+
+| | |
+|:--|:--|
+| **Problem** | Move and swap assets across chains without a single-network exchange |
+| **Built** | Multi-chain DEX with cross-chain communication, token swaps, and 100+ trading pairs |
+| **Stack** | `Node.js` · `Ethers.js` · `Solidity` · `WebSockets` |
+| **Impact** | Live cross-chain swaps, bridging, and real-time transaction tracking |
+
+Bridging protocols and cross-chain workflows move assets between networks. Node.js and Ethers.js services handle smart-contract calls and transaction processing. Liquidity pools and swap execution run the trading path, with WebSocket tracking for live trades and chain activity.
 
 ---
 
@@ -131,12 +166,12 @@ HD Wallet derivation with on-chain deposit detection, smart contract referral tr
 
 | | |
 |:--|:--|
-| **Problem** | Build complete blockchain infrastructure for a token from creation through distribution |
-| **Built** | Full token lifecycle with staking, vesting, presale, and mining contracts |
+| **Problem** | Take a token from creation through staking, vesting, presale, and distribution without separate one-off contracts |
+| **Built** | Production token infrastructure for ERC20, ERC721, and ERC1155, including staking, vesting, presale, and mining |
 | **Stack** | `Solidity` · `Hardhat` · `Foundry` · `Ethers.js` · `Node.js` · `MongoDB` · `IPFS` |
 | **Impact** | 50+ reward distribution systems across multiple tokenomics models |
 
-ERC20,ERC721,ECR1155 / vesting / staking / presale infrastructure with EIP-aware contract patterns across EVM-compatible networks.
+Contracts follow EVM standards and EIP patterns so issuance, lockups, staking, and presale settlement stay consistent across networks.
 
 ---
 
